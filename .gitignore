@@ -1,0 +1,5 @@
+venv-jungle/
+__pycache__/
+.python-version
+.env
+geckodriver
